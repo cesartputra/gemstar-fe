@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+input.empty {
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: inherit;
+}
+
+nav {
+  background-color: #1E67AF !important;
+}
+
+.logoSidebar {
+  background-color: #1E67AF !important;
+}
+
+.dashboard {
+  background-color: #FFFFFF !important;
+  color: black;
+}
+
+aside {
+  background-color: #1E67AF !important;
+}
+/* 
+table {
+  background-color: #FFFFFF !important;
+  color: black;
+} */
+
+th {
+  background-color: #FFFFFF !important;
+  color: black;
+}
+
+td {
+  background-color: #FFFFFF !important;
+  color: black;
+}
+
+tr:hover{
+  background-color: #1E67AF !important;
+}
