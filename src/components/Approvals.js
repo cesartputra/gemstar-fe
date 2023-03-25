@@ -17,6 +17,12 @@ const Approvals = () => {
             <div className="grid mb-4">
                 <ApprovalsTable />
             </div>
+            <div className="grid mb-4">
+                <a href="" className="text-sm font-bold" style={{color: '#1E67AF'}}>See all approvals here</a>
+            </div>
+            <div className="grid mt-4 flex justify-end">
+                <p>&#169;<small>Manning&Co. 2022</small></p>
+            </div>
         </>
     );
 }
